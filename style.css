@@ -69,3 +69,13 @@ button:hover {
 
 
 
+.child-container {
+    margin: 10px;
+}
+
+#preorder-output,
+#inorder-output,
+#postorder-output {
+    margin-top: 15px;
+    font-size: 16px;
+}
